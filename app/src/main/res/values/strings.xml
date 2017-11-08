@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">News Flow</string>
+    <string name="latest">latest</string>
+    <string name="top">top</string>
+    <string name="popular">popular</string>
+    <string name="image">image</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="saved_articles">Saved Articles</string>
+    <string name="top_news_sources">Top News Sources</string>
+    <string name="news_menu">News Menu</string>
+    <string name="save_articles">Save Articles</string>
+    <string name="share">Share</string>
+    <string name="NoNetwork">NO ACTIVE NETWORK AVAILABLE</string>
+</resources>

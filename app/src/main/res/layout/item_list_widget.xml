@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text_wid"
+        android:layout_width="match_parent"
+        android:textSize="18sp"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:text="Hello world!"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
